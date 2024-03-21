@@ -1,5 +1,5 @@
 # Pineherst Foods Website
-![Pineherst](assets/images/Burger.jpeg)
+![Pineherst](assets/images/responsiveness.PNG)
 
 
 This README provides an overview of the Pineherst Foods website, detailing its structure, content, and special features. The website utilizes HTML5, CSS, and JavaScript, incorporating external libraries like Font Awesome for icons to enhance the visual appeal and functionality.
