@@ -2,7 +2,7 @@
 
 ![Pineherst Foods shown on a variety of screen sizes](assets/images/responsiveness.PNG)
 
-Visit the deployed site: [Pineherst Foods](https://designergpt.replit.app/)
+Visit the deployed site: [Pineherst Foods](https://5elc0uth.github.io/Food-Web/)
 
 Welcome to Pineherst Foods! Dive into the world of fresh, delicious cuisine with our comprehensive website designed to cater to all your culinary needs. Whether you're a food enthusiast eager to explore our diverse menu, or a curious visitor looking to learn more about our unique offerings, Pineherst Foods promises an engaging and informative experience for everyone.
 
